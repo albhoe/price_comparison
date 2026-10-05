@@ -1,6 +1,0 @@
-# .env file
-FIRECRAWL_API_KEY=fc-22a0952d4fc1404187cdafa5dc8bcb56
-LOCATION="Katy, Texas"
-STORES="HEB,H-Mart"
-GROCERIES="Oatmeal,Bananas,Oranges"
-SPREADSHEET_PATH="./spreadsheet.json"
