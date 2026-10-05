@@ -1,0 +1,50 @@
+{
+    "Oatmeal": {
+        "HEB": {
+            "item": "H\u2011E\u2011B Instant Oatmeal Variety Pack",
+            "price": 3.35,
+            "quantity": 18,
+            "unit": "ct",
+            "unit_price": 0.1861111111
+        },
+        "H-Mart": {
+            "item": "Hetbahn Cooked Sprouted Brown Rice Box",
+            "price": 24.99,
+            "quantity": 12,
+            "unit": "ct",
+            "unit_price": 2.0825
+        }
+    },
+    "Bananas": {
+        "HEB": {
+            "item": "H-E-B Frozen Banana Slices",
+            "price": 3.68,
+            "quantity": 24,
+            "unit": "oz",
+            "unit_price": 0.1533333333
+        },
+        "H-Mart": {
+            "item": "Hetbahn Cooked Sprouted Brown Rice Box 7.4oz(210g) 12 Ea",
+            "price": 24.99,
+            "quantity": 12,
+            "unit": "ct",
+            "unit_price": 2.0825
+        }
+    },
+    "Oranges": {
+        "HEB": {
+            "item": "H\u2011E\u2011B Texas Roots Fresh Oranges",
+            "price": 8.98,
+            "quantity": 160,
+            "unit": "oz",
+            "unit_price": 0.056125
+        },
+        "H-Mart": {
+            "item": "Hetbahn Cooked Sprouted Brown Rice Box 7.4oz(210g) 12 Ea",
+            "price": 24.99,
+            "quantity": 12,
+            "unit": "ct",
+            "unit_price": 2.0825
+        }
+    }
+}
